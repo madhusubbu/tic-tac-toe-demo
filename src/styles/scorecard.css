@@ -1,0 +1,19 @@
+.fa option {
+
+    font-weight: 900;
+    
+}
+
+.fa {
+    font-family: "font-family: Font Awesome\ 5 Free;";
+}
+
+select {
+    font-family: 'FontAwesome', 'Second Font name'
+    }
+
+.ddl {
+    height: 35px;
+    width: 80px;
+    text-align: center;
+}    

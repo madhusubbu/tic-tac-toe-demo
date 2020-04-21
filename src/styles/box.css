@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    width: calc(400px / 3);
+    height: calc(400px / 3);
+    font-size: 60px;
+    color: rgb(228, 85, 19);
+    background-color: lightgray;
+    border: 2px solid rgb(86, 124, 139);
+  }
+  
